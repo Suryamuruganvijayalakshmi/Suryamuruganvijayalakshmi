@@ -1,106 +1,106 @@
-<h1 align="center">Hi 👋, I'm Surya V M</h1>
-
-<h3 align="center">🚀 Aspiring Software & IoT Engineer | Web Developer | Innovator</h3>
+<h1 align="center">Surya V M</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=surya10789&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <strong>Software & IoT Engineer • Web Developer • Author</strong>
+</p>
+
+<p align="center">
+  Building technology-driven solutions that create real-world impact.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Suryamuruganvijayalakshmi">
+    <img src="https://komarev.com/ghpvc/?username=Suryamuruganvijayalakshmi&label=Profile%20Views&style=flat-square" alt="Profile Views" />
+  </a>
 </p>
 
 ---
 
-## 💫 About Me
+## About
 
-🎓 Engineering Student
+I am an engineering student with a strong interest in software development, Internet of Things (IoT), and emerging technologies. I enjoy designing and building practical solutions that address real-world challenges through innovation and technology.
 
-💻 Passionate Web Developer
+My experience includes developing web applications, IoT-based monitoring systems, and assistive technologies. I am continuously expanding my knowledge in software engineering, embedded systems, and full-stack development while working on impactful projects.
 
-🌱 Exploring AI, IoT, Embedded Systems & Full Stack Development
+### Areas of Interest
 
-🥇 Creator of a Smart Glove for Paralysis Patients
-
-📚 Author of *The Celestial Odyssey of NASA Through Time and Space*
-
-🚀 Building impactful solutions that solve real-world problems
-
-💡 Innovation & Entrepreneurship Enthusiast
+- Software Development
+- Internet of Things (IoT)
+- Web Technologies
+- Embedded Systems
+- Artificial Intelligence
+- Innovation & Entrepreneurship
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,firebase,github,vscode,arduino" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🌍 Landslide Prevention System
-AI-IoT based monitoring system using ESP8266, GPS and Soil Moisture Sensors.
+### SignBridge
+A platform designed to connect people through seamless communication and collaboration.
 
-### 🧤 Smart Glove for Paralysis Patients
-Assistive healthcare device designed to support paralysis patients.
+### Landslide Prevention System
+An IoT-based monitoring solution utilizing ESP8266, GPS, and soil moisture sensors for disaster risk assessment and early warning.
 
-### 🚶 SafeWalk
-Women Safety App with emergency alerts, live location tracking, and quick SOS activation.
+### Smart Glove for Paralysis Patients
+An assistive healthcare device aimed at improving accessibility and support for individuals with paralysis.
 
-### 🌉 SignBridge
-A platform designed to connect people and foster meaningful communication.
+### SafeWalk
+A safety-focused mobile application featuring emergency alerts and location-sharing capabilities.
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=surya10789&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=surya10789&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Suryamuruganvijayalakshmi&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Suryamuruganvijayalakshmi&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya10789&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryamuruganvijayalakshmi&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-🥇 First Prize – Smart Glove for Paralysis Patients
-
-📖 Published Author
-
-💡 Innovation & Entrepreneurship Enthusiast
+- First Prize – Smart Glove for Paralysis Patients
+- Published Author
+- Active Contributor to Technology and Innovation Projects
 
 ---
 
-## 🌐 Connect With Me
+## Education
 
-<p align="center">
+**Bachelor of Engineering**  
+M. Kumarasamy College of Engineering, Karur
+
+---
+
+## Connect
+
+<p align="left">
   <a href="https://www.linkedin.com/in/suryamuruganvijayalakshmi">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="https://github.com/surya10789">
-    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
   <a href="mailto:vmsurya2007@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+
+  <a href="https://github.com/Suryamuruganvijayalakshmi">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suryamuruganvijayalakshmi&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-<div align="center">
-
-### ⚡ Turning Ideas into Impactful Innovations
-
-</div>
+> “Building solutions that combine innovation, technology, and real-world impact.”
