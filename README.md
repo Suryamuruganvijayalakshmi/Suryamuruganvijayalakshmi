@@ -1,106 +1,130 @@
-<h1 align="center">Surya V M</h1>
-
 <p align="center">
-  <strong>Software & IoT Engineer • Web Developer • Author</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=220&section=header&text=Surya%20V%20M&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Surya V M</h1>
+
+<h3 align="center">
+🚀 Aspiring Software & IoT Engineer | Web Developer | Innovator
+</h3>
+
 <p align="center">
-  Building technology-driven solutions that create real-world impact.
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Engineering+Student;Web+Developer;IoT+Enthusiast;Problem+Solver;Author;Building+Technology+for+Impact" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Suryamuruganvijayalakshmi">
-    <img src="https://komarev.com/ghpvc/?username=Suryamuruganvijayalakshmi&label=Profile%20Views&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Suryamuruganvijayalakshmi&label=Profile+Views&color=0e75b6&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## About
+# 💫 About Me
 
-I am an engineering student with a strong interest in software development, Internet of Things (IoT), and emerging technologies. I enjoy designing and building practical solutions that address real-world challenges through innovation and technology.
+🎓 Engineering Student
 
-My experience includes developing web applications, IoT-based monitoring systems, and assistive technologies. I am continuously expanding my knowledge in software engineering, embedded systems, and full-stack development while working on impactful projects.
+💻 Passionate Web Developer
 
-### Areas of Interest
+🌱 Exploring AI, IoT, Embedded Systems & Full Stack Development
 
-- Software Development
-- Internet of Things (IoT)
-- Web Technologies
-- Embedded Systems
-- Artificial Intelligence
-- Innovation & Entrepreneurship
+🧤 Creator of a Smart Glove for Paralysis Patients
+
+📚 Author of *The Celestial Odyssey of NASA Through Time and Space*
+
+🚀 Building impactful solutions that solve real-world problems
+
+💡 Innovation & Entrepreneurship Enthusiast
+
+⚡ Always learning, creating, and pushing boundaries
 
 ---
 
-## Technical Skills
+# 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,firebase,github,vscode,arduino" />
 </p>
 
 ---
 
-## Featured Projects
+# 🚀 Featured Projects
 
-### SignBridge
-A platform designed to connect people through seamless communication and collaboration.
+### 🌉 SignBridge
+A platform designed to connect people and foster meaningful communication.
 
-### Landslide Prevention System
-An IoT-based monitoring solution utilizing ESP8266, GPS, and soil moisture sensors for disaster risk assessment and early warning.
+### 🧤 Smart Glove for Paralysis Patients
+Assistive healthcare technology supporting paralysis patients.
 
-### Smart Glove for Paralysis Patients
-An assistive healthcare device aimed at improving accessibility and support for individuals with paralysis.
+### 🌍 Landslide Prevention System
+IoT-based monitoring system using ESP8266, GPS, and Soil Moisture Sensors.
 
-### SafeWalk
-A safety-focused mobile application featuring emergency alerts and location-sharing capabilities.
+### 🚶 SafeWalk
+Women Safety App with emergency alerts and live location tracking.
 
 ---
 
-## GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Suryamuruganvijayalakshmi&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Suryamuruganvijayalakshmi&theme=github-dark-blue&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Suryamuruganvijayalakshmi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Suryamuruganvijayalakshmi&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryamuruganvijayalakshmi&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryamuruganvijayalakshmi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Achievements
+# 🏆 Achievements
 
-- First Prize – Smart Glove for Paralysis Patients
-- Published Author
-- Active Contributor to Technology and Innovation Projects
+🥇 First Prize – Smart Glove for Paralysis Patients
 
----
+📖 Published Author
 
-## Education
-
-**Bachelor of Engineering**  
-M. Kumarasamy College of Engineering, Karur
+💡 Innovation & Entrepreneurship Enthusiast
 
 ---
 
-## Connect
+# 📈 Contribution Graph
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/suryamuruganvijayalakshmi">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="mailto:vmsurya2007@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-
-  <a href="https://github.com/Suryamuruganvijayalakshmi">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suryamuruganvijayalakshmi&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-> “Building solutions that combine innovation, technology, and real-world impact.”
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/suryamuruganvijayalakshmi">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:vmsurya2007@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/Suryamuruganvijayalakshmi">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⚡ Turning Ideas into Impactful Innovations
+
+*"Technology is best when it brings people together and solves real-world challenges."*
+
+⭐ Thanks for visiting my profile!
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer" />
+</p>
