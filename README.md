@@ -1,200 +1,152 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=220&section=header&text=Surya%20V%20M&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Surya V M</h1>
+# Hi 👋, I'm Surya V M
 
-<h3 align="center">
-🚀 Software Developer | AI & IoT Enthusiast | Full Stack Developer
-</h3>
+### 🤖 AIML Student | IoT Developer | Edge AI Enthusiast
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Computer+Science+(AI+%26+ML)+Student;Full+Stack+Web+Developer;AI+%26+IoT+Enthusiast;Building+Real-World+Solutions;Published+Author;Always+Learning+New+Technologies"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=00C896&lines=Turning+coffee+into+code+and+ideas+into+reality.+☕💻;Artificial+Intelligence+%7C+Machine+Learning;IoT+Developer;TinyML+Explorer;Always+Learning+New+Things+🚀" />
 
-<p align="center">
-<a href="https://github.com/Suryamuruganvijayalakshmi">
-<img src="https://komarev.com/ghpvc/?username=Suryamuruganvijayalakshmi&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</a>
-</p>
+</div>
 
 ---
 
 # 💫 About Me
 
-🎓 B.E. Computer Science & Engineering (AI & ML) Student
+```cpp
+class SuryaVM {
 
-💻 Passionate Full Stack Web Developer
+public:
 
-🤖 Exploring Artificial Intelligence, IoT & Embedded Systems
+    String role = "AIML Student";
 
-🚀 Building scalable web applications and innovative software
+    String location = "India";
 
-📖 Published Author of **"The Celestial Odyssey of NASA Through Time and Space"**
+    String interests[] = {
+        "Artificial Intelligence",
+        "Edge AI",
+        "TinyML",
+        "IoT",
+        "Web Development"
+    };
 
-🏆 Winner of Digital Poster Making Competition
+    void motto(){
+        cout<<"Turning coffee into code and ideas into reality. ☕💻";
+    }
 
-💡 Passionate about solving real-world problems through technology
-
-🌱 Currently learning **Node.js, Express.js, MongoDB & AI**
-
-⚡ Goal: Become a Software Engineer building impactful products.
+};
+```
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
+
+### 💻 Programming
+
+![C](https://img.shields.io/badge/C-071F1D?style=for-the-badge&logo=c&logoColor=99F6E4)
+![Python](https://img.shields.io/badge/Python-071F1D?style=for-the-badge&logo=python&logoColor=00C896)
+![Java](https://img.shields.io/badge/Java-071F1D?style=for-the-badge&logo=openjdk&logoColor=14B8A6)
+![JavaScript](https://img.shields.io/badge/JavaScript-071F1D?style=for-the-badge&logo=javascript&logoColor=5EEAD4)
+
+### 🌐 Web
+
+![HTML5](https://img.shields.io/badge/HTML5-071F1D?style=for-the-badge&logo=html5&logoColor=00C896)
+![CSS3](https://img.shields.io/badge/CSS3-071F1D?style=for-the-badge&logo=css3&logoColor=14B8A6)
+
+### 🤖 AI & Machine Learning
+
+![Python ML](https://img.shields.io/badge/Python_for_ML-071F1D?style=for-the-badge&logo=python&logoColor=99F6E4)
+![TinyML](https://img.shields.io/badge/TinyML-071F1D?style=for-the-badge&logo=tensorflow&logoColor=00C896)
+![Edge AI](https://img.shields.io/badge/Edge_AI-071F1D?style=for-the-badge&logo=nvidia&logoColor=14B8A6)
+
+### ⚡ IoT
+
+![ESP32](https://img.shields.io/badge/ESP32-071F1D?style=for-the-badge&logo=esphome&logoColor=5EEAD4)
+![Arduino](https://img.shields.io/badge/Arduino-071F1D?style=for-the-badge&logo=arduino&logoColor=00C896)
+
+### 🔥 Backend
+
+![Firebase](https://img.shields.io/badge/Firebase-071F1D?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+
+### 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-071F1D?style=for-the-badge&logo=git&logoColor=00C896)
+![GitHub](https://img.shields.io/badge/GitHub-071F1D?style=for-the-badge&logo=github&logoColor=ECFEFF)
+![VS Code](https://img.shields.io/badge/VS_Code-071F1D?style=for-the-badge&logo=visualstudiocode&logoColor=14B8A6)
+
+---
+
+# 📌 Featured Projects
+
+## 🌱 EcoClamp
+
+> AI-powered predictive maintenance system for industrial motors using IoT, TinyML, and Edge AI.
+
+---
+
+## 🛡 SafeWalk
+
+> IoT-based women safety system with emergency alert functionality.
+
+---
+
+## 🛒 ShopCart
+
+> Modern e-commerce web application built for seamless online shopping.
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,nodejs,express,mongodb,firebase,git,github,vscode,arduino"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=suryamuruganvijayalakshmi&show_icons=true&theme=transparent&title_color=00C896&text_color=ECFEFF&icon_color=14B8A6&border_color=14B8A6"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=suryamuruganvijayalakshmi&theme=transparent&ring=00C896&fire=14B8A6&currStreakLabel=5EEAD4&border=14B8A6"/>
+
 </p>
 
----
-
-# 🚀 Featured Projects
-
-## 🛒 Ayrus Shopping
-An Amazon-inspired full-stack e-commerce platform featuring:
-
-- Secure Firebase Authentication
-- Admin Dashboard
-- Product Management
-- Shopping Cart
-- Responsive UI
-- Modern User Experience
-
----
-
-## ⛽ Lube Sales Tracker
-
-Inventory & Sales Management System for lubricant businesses.
-
-### Features
-
-- Sales Tracking
-- Inventory Management
-- Customer Records
-- Dashboard Analytics
-- Business Reports
-
----
-
-## 🌾 Smart Agriculture Monitoring System
-
-IoT-based crop monitoring solution using ESP8266.
-
-### Features
-
-- Soil Moisture Monitoring
-- Pest Alerts
-- Harvest Notifications
-- Mobile App Integration
-
----
-
-## 🤖 AI-Based Solar Flare Prediction
-
-An AI-powered research project inspired by ISRO's Aditya-L1 mission.
-
-### Features
-
-- Physics-Informed AI
-- Solar Activity Prediction
-- Space Weather Analysis
-- Machine Learning
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Suryamuruganvijayalakshmi&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Suryamuruganvijayalakshmi&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryamuruganvijayalakshmi&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 Achievements
-
-🥇 First Prize - Smart Glove Innovation
-
-📖 Published Author
-
-🏅 Digital Poster Making Competition Winner
-
-🎖 Claude Code 101 Certified
-
-🚀 Built Multiple Full Stack Applications
-
-💡 AI, IoT & Software Development Enthusiast
-
----
-
-# 📜 Certifications
-
-- Claude Code 101
-- Python Programming
-- HTML & CSS
-- JavaScript
-- Firebase Fundamentals
-
----
-
-# 🌱 Currently Learning
-
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-- Full Stack Development
-- Artificial Intelligence
-- Machine Learning
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suryamuruganvijayalakshmi&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
 <p align="center">
 
-<a href="https://www.linkedin.com/in/suryamuruganvijayalakshmi">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:vmsurya2007@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/Suryamuruganvijayalakshmi">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=suryamuruganvijayalakshmi&bg_color=071F1D&color=ECFEFF&line=00C896&point=5EEAD4&area=true&hide_border=true"/>
 
 </p>
 
 ---
 
-# 💬 Quote
+# 🌟 Soft Skills
+
+✨ Team Leadership
+
+🎤 Public Speaking
+
+📝 Technical Documentation
+
+📊 Presentation Skills
+
+📅 Project Management
+
+🧩 Problem Solving
+
+🚀 Quick Learner
+
+---
+
+# 🌍 Connect with Me
+
+📧 **Email**
+
+**vmsurya2007@gmail.com**
+
+🐙 **GitHub**
+
+https://github.com/suryamuruganvijayalakshmi
+
+---
 
 <div align="center">
 
-### ⚡ Turning Ideas into Innovative Solutions
+### ⭐ "Turning coffee into code and ideas into reality." ☕💻
 
-*"Code with purpose. Build with passion. Innovate for impact."*
-
-⭐ Thanks for visiting my profile!
+<img src="https://komarev.com/ghpvc/?username=suryamuruganvijayalakshmi&label=Profile+Views&color=00C896&style=for-the-badge"/>
 
 </div>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer"/>
-</p>
