@@ -1,4 +1,4 @@
-```markdown
+
 # 👋 Hi, I'm Surya V M
 
 <p align="center">
@@ -45,7 +45,7 @@ AI / Data Integration
 Testing
    ↓
 Product
-```
+
 
 My main interests include **Full-Stack Development, Artificial Intelligence, Machine Learning, IoT, TinyML, Data Engineering, Edge Computing, and Product Development**.
 
