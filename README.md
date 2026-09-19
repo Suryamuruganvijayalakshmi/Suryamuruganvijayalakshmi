@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Surya V M
 
 <p align="center">
@@ -25,33 +24,46 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Surya V M**, a **Full-Stack Developer, AIoT Builder, and Startup Founder** interested in transforming real-world problems into practical technology solutions.
+I'm **Surya V M**, a **Full-Stack Developer, AIoT Builder, and Startup Founder** focused on turning real-world problems into practical technology solutions.
 
-I enjoy working across the complete development cycle:
+I enjoy working across the complete product lifecycle:
 
-text
-Problem
-   ↓
-Research
-   ↓
-System Architecture
-   ↓
-Prototype
-   ↓
-Software Development
-   ↓
-AI / Data Integration
-   ↓
-Testing
-   ↓
-Product
+```text
+                    💡 PROBLEM
+                        │
+                        ▼
+                    🔍 RESEARCH
+                        │
+                        ▼
+                 🏗️ ARCHITECTURE
+                        │
+                        ▼
+                   🔬 PROTOTYPE
+                        │
+                        ▼
+                    💻 BUILD
+                        │
+                        ▼
+                  🤖 AI / DATA
+                        │
+                        ▼
+                    🧪 TEST
+                        │
+                        ▼
+                   🚀 PRODUCT
+```
 
+### What I Work With
 
-My main interests include **Full-Stack Development, Artificial Intelligence, Machine Learning, IoT, TinyML, Data Engineering, Edge Computing, and Product Development**.
+- 💻 Full-Stack Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 🔌 IoT & Embedded Systems
+- 🧠 TinyML & Edge AI
+- 📊 Data Engineering & Analytics
+- ☁️ Cloud & Backend Systems
+- 🚀 Product Development & Startup Building
 
-I enjoy building systems where **software meets hardware**, especially projects that can move from a prototype into a practical real-world product.
-
-> **"Don't just build projects. Build solutions that matter."**
+> **I don't just build projects — I build solutions to real-world problems.**
 
 ---
 
@@ -64,11 +76,11 @@ I enjoy building systems where **software meets hardware**, especially projects 
 
 ### 💻
 
-## Software
+### Software
 
-Full-Stack Apps  
+Full-Stack Applications  
 Web Platforms  
-APIs  
+REST APIs  
 Backend Systems
 
 </td>
@@ -77,10 +89,10 @@ Backend Systems
 
 ### 🤖
 
-## AI & Data
+### AI & Data
 
-Machine Learning  
 AI Applications  
+Machine Learning  
 Analytics  
 Intelligent Systems
 
@@ -90,7 +102,7 @@ Intelligent Systems
 
 ### 🔌
 
-## IoT
+### IoT
 
 ESP32  
 Sensors  
@@ -103,12 +115,12 @@ TinyML
 
 ### 🚀
 
-## Products
+### Products
 
 Prototypes  
+Automation  
 Startup Ideas  
-Real-World Solutions  
-Product Development
+Real-World Solutions
 
 </td>
 
@@ -119,39 +131,39 @@ Product Development
 
 # 🛠️ Tech Stack
 
-## 💻 Programming Languages
+### 💻 Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
 </p>
 
-## 🌐 Frontend
+### 🌐 Frontend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
-## ⚙️ Backend & Databases
+### ⚙️ Backend & Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase" />
 </p>
 
-## 🔌 IoT & Development Tools
+### 🔧 Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,vercel" />
 </p>
 
-## 🧠 Core Areas
+### 🧠 Areas of Expertise
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/TinyML-111827?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-0A0A0A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Engineering-1E40AF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Edge%20Computing-0891B2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IoT-0A0A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TinyML-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-1E40AF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Edge%20AI-0891B2?style=for-the-badge" />
 </p>
 
 ---
@@ -160,7 +172,7 @@ Product Development
 
 ## ⚡ EcoClamp
 
-### AIoT Smart Resource Conservation & Industrial Energy Intelligence Platform
+### AIoT Smart Resource Conservation & Industrial Intelligence Platform
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Working%20Prototype-00C853?style=for-the-badge" />
@@ -168,53 +180,65 @@ Product Development
   <img src="https://img.shields.io/badge/Hardware-ESP32-E7352C?style=for-the-badge" />
 </p>
 
-> **Monitor → Predict → Conserve → Act**
+> **Monitor → Understand → Predict → Conserve**
 
-EcoClamp is a low-cost, non-invasive AIoT platform designed for machine monitoring and industrial energy intelligence.
+EcoClamp is a **low-cost, non-invasive AIoT platform** designed to monitor machines and generate actionable operational and energy insights.
 
-It uses an **ESP32 + CT current sensor** to capture machine current readings and transform them into useful machine and energy insights.
+It combines **ESP32-based sensing, current monitoring, data analysis, anomaly detection, machine-specific baselines, and intelligent insights**.
 
-### 🔥 Key Capabilities
+### 🔄 System Flow
 
-text
-Machine
-   ↓
-ESP32 + CT Sensor
-   ↓
-Data Acquisition
-   ↓
-Baseline Learning
-   ↓
-Anomaly Detection
-   ↓
-Machine Health
-   ↓
-Forecasting
-   ↓
-Maintenance Insights
-   ↓
-Resource Conservation
-   ↓
-Operator Action
+```text
+              🏭 MACHINE
+                   │
+                   ▼
+          🔌 CT CURRENT SENSOR
+                   │
+                   ▼
+                ESP32
+                   │
+                   ▼
+            DATA ACQUISITION
+                   │
+                   ▼
+           BASELINE LEARNING
+                   │
+                   ▼
+          ANOMALY DETECTION
+                   │
+                   ▼
+           MACHINE HEALTH
+                   │
+                   ▼
+             FORECASTING
+                   │
+                   ▼
+        MAINTENANCE INSIGHTS
+                   │
+                   ▼
+         RESOURCE CONSERVATION
+                   │
+                   ▼
+            👨‍🔧 ACTION
+```
 
-
-### Features
+### 🔥 Key Features
 
 - ⚡ Real-time machine monitoring
 - 🧠 Machine-specific baseline learning
 - 🚨 Anomaly detection
 - ❤️ Machine health scoring
 - 🔮 Short-term forecasting
-- 🔧 Maintenance recommendations
+- 🔧 Maintenance insights
 - 🌱 Resource conservation analysis
 - 📊 Energy intelligence
-- 🔔 Human-supervised alerts
+- 🔔 Intelligent alerts
 - 📡 ESP32-based sensing
 - 🏭 Non-invasive retrofit architecture
 
-### Technology
+### 🧰 Technology
 
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` `ESP32` `IoT` `Recharts`
+`ESP32` `IoT` `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Recharts`
 
 ---
 
@@ -222,11 +246,11 @@ Operator Action
 
 ### Intelligent Agricultural Procurement Planning Platform
 
-AgriFlow is a digital platform concept designed to help farmers and procurement centres coordinate crop arrivals before harvest.
+AgriFlow is a digital agricultural planning concept designed to help farmers and procurement centres coordinate crop arrivals before harvest.
 
-### Focus Areas
+### 🌱 Core Features
 
-- 🌱 Crop readiness prediction
+- 🌾 Crop readiness prediction
 - 📍 Farmer field registration
 - 📦 Expected harvest quantity
 - 🏭 Procurement-centre capacity
@@ -234,7 +258,7 @@ AgriFlow is a digital platform concept designed to help farmers and procurement 
 - 🎯 Centre recommendations
 - 👨‍🌾 Farmer-focused workflow
 
-### Technology
+### 🧰 Technology
 
 `React` `Node.js` `MongoDB` `AI` `Data Analytics`
 
@@ -244,9 +268,9 @@ AgriFlow is a digital platform concept designed to help farmers and procurement 
 
 ### Explainable AI Resume Screening Assistant
 
-Synthetix HR is an evidence-first resume screening system designed to make automated screening more transparent and human-supervised.
+Synthetix HR is an **evidence-first resume screening system** designed to make automated candidate screening more transparent and human-supervised.
 
-### Features
+### 🔍 Core Features
 
 - 📄 Resume parsing
 - 🔍 Resume integrity analysis
@@ -257,7 +281,7 @@ Synthetix HR is an evidence-first resume screening system designed to make autom
 - ⚖️ Configurable scoring
 - 👨‍💼 Human-in-the-loop screening
 
-### Technology
+### 🧰 Technology
 
 `Next.js` `React` `Python` `FastAPI` `PostgreSQL` `Qdrant` `LLMs`
 
@@ -267,80 +291,80 @@ Synthetix HR is an evidence-first resume screening system designed to make autom
 
 ### Autonomous Orbital Safety & Debris Mitigation Concept
 
-SENTINEL is a conceptual autonomous system exploring intelligent orbital risk monitoring and mitigation.
+SENTINEL is a conceptual system exploring **autonomous orbital risk monitoring, intelligent decision-making, and modular debris mitigation**.
 
-### Autonomous Mission Flow
+### 🧠 Mission Architecture
 
-text
-┌───────────────┐
-│    DETECT     │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│    ANALYZE    │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│    PREDICT    │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│    DECIDE     │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│    DEPLOY     │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│    VERIFY     │
-└───────────────┘
+```text
+       ┌───────────────┐
+       │    DETECT     │
+       └───────┬───────┘
+               ↓
+       ┌───────────────┐
+       │    ANALYZE    │
+       └───────┬───────┘
+               ↓
+       ┌───────────────┐
+       │    PREDICT    │
+       └───────┬───────┘
+               ↓
+       ┌───────────────┐
+       │    DECIDE     │
+       └───────┬───────┘
+               ↓
+       ┌───────────────┐
+       │    DEPLOY     │
+       └───────┬───────┘
+               ↓
+       ┌───────────────┐
+       │    VERIFY     │
+       └───────────────┘
+```
 
-
-The concept explores autonomous orbital safety, modular intervention systems, reusable mission architectures, and intelligent decision systems.
+The concept explores autonomous orbital safety, reusable intervention architectures, modular systems, and intelligent mission decision-making.
 
 ---
 
-# 🧠 My Engineering Mindset
+# 🧠 Engineering Mindset
 
 I believe technology becomes valuable when it moves beyond a demo and solves a meaningful problem.
 
-text
-             REAL-WORLD PROBLEM
-                     │
-                     ▼
-                  RESEARCH
-                     │
-                     ▼
-                ARCHITECTURE
-                     │
-                     ▼
-                 PROTOTYPE
-                     │
-                     ▼
-                   BUILD
-                     │
-                     ▼
-                   TEST
-                     │
-                     ▼
-                 IMPROVE
-                     │
-                     ▼
-                  PRODUCT
+```text
+              REAL-WORLD PROBLEM
+                       │
+                       ▼
+                    RESEARCH
+                       │
+                       ▼
+                  ARCHITECTURE
+                       │
+                       ▼
+                   PROTOTYPE
+                       │
+                       ▼
+                     BUILD
+                       │
+                       ▼
+                     TEST
+                       │
+                       ▼
+                   IMPROVE
+                       │
+                       ▼
+                    PRODUCT
+```
 
+### Before I Build, I Ask
 
-### Before Building, I Ask
-
-text
-❓ What problem does it solve?
-❓ Who needs it?
-❓ Why does it matter?
-❓ How does it work?
+```text
+❓ What problem am I solving?
+❓ Who actually needs the solution?
+❓ Why is the problem important?
+❓ How will the system work?
 ❓ Can it scale?
-❓ Can it work in the real world?
+❓ Can it work outside a demo?
 ❓ What makes it different?
-
+```
 
 > **Build solutions, not just projects.**
 
@@ -379,13 +403,13 @@ text
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Suryamuruganvijayalakshmi&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Graph"
-  alt="GitHub Contribution Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Suryamuruganvijayalakshmi&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity"
+  alt="Contribution Activity"
 />
 
 </p>
@@ -408,10 +432,9 @@ text
 # 📌 Current Focus
 
 <table align="center">
-
 <tr>
 <th>Area</th>
-<th>Focus</th>
+<th>Currently Exploring</th>
 </tr>
 
 <tr>
@@ -421,7 +444,7 @@ text
 
 <tr>
 <td>🤖 AI / ML</td>
-<td>Intelligent Applications • ML Systems</td>
+<td>AI Applications • ML Systems</td>
 </tr>
 
 <tr>
@@ -440,7 +463,12 @@ text
 </tr>
 
 <tr>
-<td>🚀 Products</td>
+<td>☁️ Backend</td>
+<td>APIs • Databases • Cloud Systems</td>
+</tr>
+
+<tr>
+<td>🚀 Product</td>
 <td>Prototyping • Product Development</td>
 </tr>
 
@@ -455,23 +483,23 @@ text
 
 # 🌱 Currently Exploring
 
-text
-AI & Machine Learning
-        +
-Data Engineering
-        +
-Edge AI / TinyML
-        +
-IoT
-        +
-Full-Stack Systems
-        +
-Industrial Intelligence
-        +
-Product Development
-        +
-Startup Building
-
+```text
+        🤖 AI & MACHINE LEARNING
+                    +
+             📊 DATA ENGINEERING
+                    +
+              🧠 EDGE AI / TINYML
+                    +
+                 🔌 IoT
+                    +
+            💻 FULL-STACK SYSTEMS
+                    +
+         🏭 INDUSTRIAL INTELLIGENCE
+                    +
+           🚀 PRODUCT DEVELOPMENT
+                    +
+            🏢 STARTUP BUILDING
+```
 
 ---
 
@@ -550,9 +578,8 @@ Startup Building
 
 <p align="center">
 
-## 🚀 Build. Learn. Experiment. Solve. Repeat.
+### 🚀 Build. Learn. Experiment. Solve. Repeat.
 
-### Thanks for visiting my profile! 👋
+**Thanks for visiting my profile! 👋**
 
 </p>
-
