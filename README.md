@@ -29,7 +29,7 @@ I'm **Surya V M**, a **Full-Stack Developer, AIoT Builder, and Startup Founder**
 
 I enjoy working across the complete development cycle:
 
-```text
+text
 Problem
    ↓
 Research
@@ -176,7 +176,7 @@ It uses an **ESP32 + CT current sensor** to capture machine current readings and
 
 ### 🔥 Key Capabilities
 
-```text
+text
 Machine
    ↓
 ESP32 + CT Sensor
@@ -196,7 +196,7 @@ Maintenance Insights
 Resource Conservation
    ↓
 Operator Action
-```
+
 
 ### Features
 
@@ -271,7 +271,7 @@ SENTINEL is a conceptual autonomous system exploring intelligent orbital risk mo
 
 ### Autonomous Mission Flow
 
-```text
+text
 ┌───────────────┐
 │    DETECT     │
 └───────┬───────┘
@@ -295,7 +295,7 @@ SENTINEL is a conceptual autonomous system exploring intelligent orbital risk mo
 ┌───────────────┐
 │    VERIFY     │
 └───────────────┘
-```
+
 
 The concept explores autonomous orbital safety, modular intervention systems, reusable mission architectures, and intelligent decision systems.
 
@@ -305,7 +305,7 @@ The concept explores autonomous orbital safety, modular intervention systems, re
 
 I believe technology becomes valuable when it moves beyond a demo and solves a meaningful problem.
 
-```text
+text
              REAL-WORLD PROBLEM
                      │
                      ▼
@@ -328,11 +328,11 @@ I believe technology becomes valuable when it moves beyond a demo and solves a m
                      │
                      ▼
                   PRODUCT
-```
+
 
 ### Before Building, I Ask
 
-```text
+text
 ❓ What problem does it solve?
 ❓ Who needs it?
 ❓ Why does it matter?
@@ -340,7 +340,7 @@ I believe technology becomes valuable when it moves beyond a demo and solves a m
 ❓ Can it scale?
 ❓ Can it work in the real world?
 ❓ What makes it different?
-```
+
 
 > **Build solutions, not just projects.**
 
@@ -455,7 +455,7 @@ I believe technology becomes valuable when it moves beyond a demo and solves a m
 
 # 🌱 Currently Exploring
 
-```text
+text
 AI & Machine Learning
         +
 Data Engineering
@@ -471,7 +471,7 @@ Industrial Intelligence
 Product Development
         +
 Startup Building
-```
+
 
 ---
 
@@ -555,4 +555,4 @@ Startup Building
 ### Thanks for visiting my profile! 👋
 
 </p>
-```
+
