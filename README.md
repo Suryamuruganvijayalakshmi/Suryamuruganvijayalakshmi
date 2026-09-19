@@ -13,43 +13,45 @@
     <img src="https://img.shields.io/github/stars/Suryamuruganvijayalakshmi?label=Stars&style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://surya.signbridge.click">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0ea5e9,100:06b6d4&height=140&section=header&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20INNOVATE&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:06b6d4&height=120&section=header" width="100%" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm **Surya V M**, a **Full-Stack Developer, AIoT Builder, and Startup Founder** focused on turning real-world problems into practical technology solutions.
+I'm **Surya V M**, a **Full-Stack Developer, AIoT Builder, and Startup Founder** interested in transforming real-world problems into practical technology solutions.
 
 I enjoy working across the complete development cycle:
 
 ```text
-💡 Problem
+Problem
    ↓
-🔎 Research
+Research
    ↓
-🏗️ System Architecture
+System Architecture
    ↓
-🔧 Prototype
+Prototype
    ↓
-💻 Software Development
+Software Development
    ↓
-🤖 AI / Data Integration
+AI / Data Integration
    ↓
-🧪 Testing
+Testing
    ↓
-🚀 Product
+Product
 ```
 
 My main interests include **Full-Stack Development, Artificial Intelligence, Machine Learning, IoT, TinyML, Data Engineering, Edge Computing, and Product Development**.
 
-> ### "Don't just build projects. Build solutions that matter."
+I enjoy building systems where **software meets hardware**, especially projects that can move from a prototype into a practical real-world product.
+
+> **"Don't just build projects. Build solutions that matter."**
 
 ---
 
@@ -120,43 +122,36 @@ Product Development
 ## 💻 Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
 </p>
 
 ## 🌐 Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
 ## ⚙️ Backend & Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase" />
 </p>
 
 ## 🔌 IoT & Development Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,vercel" />
 </p>
 
 ## 🧠 Core Areas
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logoColor=white" />
-
-<img src="https://img.shields.io/badge/TinyML-111827?style=for-the-badge&logoColor=white" />
-
-<img src="https://img.shields.io/badge/IoT-0A0A0A?style=for-the-badge&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Data%20Engineering-1E40AF?style=for-the-badge&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Edge%20Computing-0891B2?style=for-the-badge&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/TinyML-111827?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-0A0A0A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-1E40AF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Edge%20Computing-0891B2?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
@@ -167,10 +162,10 @@ Product Development
 
 ### AIoT Smart Resource Conservation & Industrial Energy Intelligence Platform
 
-<p align="center">
-<img src="https://img.shields.io/badge/Status-Working%20Prototype-00C853?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Domain-Industrial%20AIoT-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hardware-ESP32-E7352C?style=for-the-badge" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Working%20Prototype-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Domain-Industrial%20AIoT-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hardware-ESP32-E7352C?style=for-the-badge" />
 </p>
 
 > **Monitor → Predict → Conserve → Act**
@@ -182,46 +177,25 @@ It uses an **ESP32 + CT current sensor** to capture machine current readings and
 ### 🔥 Key Capabilities
 
 ```text
-                MACHINE
-                   │
-                   ▼
-          ┌─────────────────┐
-          │ ESP32 + CT      │
-          │ Current Sensor  │
-          └────────┬────────┘
-                   │
-                   ▼
-          ┌─────────────────┐
-          │ Data Processing │
-          └────────┬────────┘
-                   │
-                   ▼
-          ┌─────────────────┐
-          │    Baseline     │
-          │    Learning     │
-          └────────┬────────┘
-                   │
-                   ▼
-          ┌─────────────────┐
-          │    Anomaly      │
-          │    Detection    │
-          └────────┬────────┘
-                   │
-                   ▼
-          ┌─────────────────┐
-          │ Machine Health  │
-          └────────┬────────┘
-                   │
-                   ▼
-          ┌─────────────────┐
-          │  Forecasting    │
-          └────────┬────────┘
-                   │
-                   ▼
-          ┌─────────────────┐
-          │ Maintenance &   │
-          │ Conservation    │
-          └─────────────────┘
+Machine
+   ↓
+ESP32 + CT Sensor
+   ↓
+Data Acquisition
+   ↓
+Baseline Learning
+   ↓
+Anomaly Detection
+   ↓
+Machine Health
+   ↓
+Forecasting
+   ↓
+Maintenance Insights
+   ↓
+Resource Conservation
+   ↓
+Operator Action
 ```
 
 ### Features
@@ -240,16 +214,7 @@ It uses an **ESP32 + CT current sensor** to capture machine current readings and
 
 ### Technology
 
-```text
-Next.js
-TypeScript
-Supabase
-PostgreSQL
-ESP32
-IoT
-Recharts
-Analytics Engine
-```
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `ESP32` `IoT` `Recharts`
 
 ---
 
@@ -271,13 +236,7 @@ AgriFlow is a digital platform concept designed to help farmers and procurement 
 
 ### Technology
 
-```text
-React
-Node.js
-MongoDB
-AI
-Data Analytics
-```
+`React` `Node.js` `MongoDB` `AI` `Data Analytics`
 
 ---
 
@@ -300,15 +259,7 @@ Synthetix HR is an evidence-first resume screening system designed to make autom
 
 ### Technology
 
-```text
-Next.js
-React
-Python
-FastAPI
-PostgreSQL
-Qdrant
-LLMs
-```
+`Next.js` `React` `Python` `FastAPI` `PostgreSQL` `Qdrant` `LLMs`
 
 ---
 
@@ -321,29 +272,29 @@ SENTINEL is a conceptual autonomous system exploring intelligent orbital risk mo
 ### Autonomous Mission Flow
 
 ```text
-             ┌───────────────┐
-             │    DETECT     │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │    ANALYZE    │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │    PREDICT    │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │    DECIDE     │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │    DEPLOY     │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │    VERIFY     │
-             └───────────────┘
+┌───────────────┐
+│    DETECT     │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│    ANALYZE    │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│    PREDICT    │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│    DECIDE     │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│    DEPLOY     │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│    VERIFY     │
+└───────────────┘
 ```
 
 The concept explores autonomous orbital safety, modular intervention systems, reusable mission architectures, and intelligent decision systems.
@@ -355,40 +306,31 @@ The concept explores autonomous orbital safety, modular intervention systems, re
 I believe technology becomes valuable when it moves beyond a demo and solves a meaningful problem.
 
 ```text
-┌──────────────────────────────┐
-│      REAL-WORLD PROBLEM      │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│          RESEARCH            │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│        ARCHITECTURE          │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│          PROTOTYPE           │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│            BUILD             │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│            TEST              │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│           IMPROVE            │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│           PRODUCT            │
-└──────────────────────────────┘
+             REAL-WORLD PROBLEM
+                     │
+                     ▼
+                  RESEARCH
+                     │
+                     ▼
+                ARCHITECTURE
+                     │
+                     ▼
+                 PROTOTYPE
+                     │
+                     ▼
+                   BUILD
+                     │
+                     ▼
+                   TEST
+                     │
+                     ▼
+                 IMPROVE
+                     │
+                     ▼
+                  PRODUCT
 ```
 
-### What I Ask Before Building
+### Before Building, I Ask
 
 ```text
 ❓ What problem does it solve?
@@ -400,19 +342,25 @@ I believe technology becomes valuable when it moves beyond a demo and solves a m
 ❓ What makes it different?
 ```
 
+> **Build solutions, not just projects.**
+
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=Suryamuruganvijayalakshmi&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true"
-alt="GitHub Statistics" />
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=Suryamuruganvijayalakshmi&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"
+  alt="GitHub Statistics"
+/>
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryamuruganvijayalakshmi&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
-alt="Top Languages" />
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryamuruganvijayalakshmi&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
+  alt="Top Languages"
+/>
 
 </p>
 
@@ -423,8 +371,9 @@ alt="Top Languages" />
 <p align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=Suryamuruganvijayalakshmi&theme=tokyonight&hide_border=true"
-alt="GitHub Contribution Streak" />
+  src="https://streak-stats.demolab.com?user=Suryamuruganvijayalakshmi&theme=tokyonight&hide_border=true"
+  alt="GitHub Contribution Streak"
+/>
 
 </p>
 
@@ -435,8 +384,9 @@ alt="GitHub Contribution Streak" />
 <p align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Suryamuruganvijayalakshmi&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Graph"
-alt="GitHub Contribution Graph" />
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Suryamuruganvijayalakshmi&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Graph"
+  alt="GitHub Contribution Graph"
+/>
 
 </p>
 
@@ -447,8 +397,9 @@ alt="GitHub Contribution Graph" />
 <p align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=Suryamuruganvijayalakshmi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
-alt="GitHub Trophies" />
+  src="https://github-profile-trophy.vercel.app/?username=Suryamuruganvijayalakshmi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
+  alt="GitHub Trophies"
+/>
 
 </p>
 
@@ -560,15 +511,15 @@ Startup Building
 <p align="center">
 
 <a href="https://github.com/Suryamuruganvijayalakshmi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/in/suryamuruganvijayalakshmi/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="https://surya.signbridge.click">
-<img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
 </p>
@@ -580,8 +531,9 @@ Startup Building
 <p align="center">
 
 <img
-src="https://komarev.com/ghpvc/?username=Suryamuruganvijayalakshmi&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge"
-alt="Profile Views" />
+  src="https://komarev.com/ghpvc/?username=Suryamuruganvijayalakshmi&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge"
+  alt="Profile Views"
+/>
 
 </p>
 
@@ -590,8 +542,8 @@ alt="Profile Views" />
 <p align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0ea5e9,100:06b6d4&height=120&section=footer"
-width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:06b6d4&height=120&section=footer"
+  width="100%"
 />
 
 </p>
