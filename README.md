@@ -1,152 +1,160 @@
-<div align="center">
+# 👋 Hi, I'm Surya V M
 
-# Hi 👋, I'm Surya V M
+### 🚀 Full-Stack Developer • AIoT Builder • Startup Founder
 
-### 🤖 AIML Student | IoT Developer | Edge AI Enthusiast
+I’m a technology enthusiast and builder focused on turning **real-world problems into practical software, AI, and IoT solutions**.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=00C896&lines=Turning+coffee+into+code+and+ideas+into+reality.+☕💻;Artificial+Intelligence+%7C+Machine+Learning;IoT+Developer;TinyML+Explorer;Always+Learning+New+Things+🚀" />
+I enjoy working across the full development cycle — from **hardware prototypes and data processing to backend systems, intelligent analytics, and modern web applications**.
 
-</div>
-
----
-
-# 💫 About Me
-
-```cpp
-class SuryaVM {
-
-public:
-
-    String role = "AIML Student";
-
-    String location = "India";
-
-    String interests[] = {
-        "Artificial Intelligence",
-        "Edge AI",
-        "TinyML",
-        "IoT",
-        "Web Development"
-    };
-
-    void motto(){
-        cout<<"Turning coffee into code and ideas into reality. ☕💻";
-    }
-
-};
-```
+Currently exploring how **AI + IoT + Software Engineering** can be combined to build useful products for real-world industries.
 
 ---
 
-# 🚀 Tech Stack
+## 🧑‍💻 About Me
 
-### 💻 Programming
-
-![C](https://img.shields.io/badge/C-071F1D?style=for-the-badge&logo=c&logoColor=99F6E4)
-![Python](https://img.shields.io/badge/Python-071F1D?style=for-the-badge&logo=python&logoColor=00C896)
-![Java](https://img.shields.io/badge/Java-071F1D?style=for-the-badge&logo=openjdk&logoColor=14B8A6)
-![JavaScript](https://img.shields.io/badge/JavaScript-071F1D?style=for-the-badge&logo=javascript&logoColor=5EEAD4)
-
-### 🌐 Web
-
-![HTML5](https://img.shields.io/badge/HTML5-071F1D?style=for-the-badge&logo=html5&logoColor=00C896)
-![CSS3](https://img.shields.io/badge/CSS3-071F1D?style=for-the-badge&logo=css3&logoColor=14B8A6)
-
-### 🤖 AI & Machine Learning
-
-![Python ML](https://img.shields.io/badge/Python_for_ML-071F1D?style=for-the-badge&logo=python&logoColor=99F6E4)
-![TinyML](https://img.shields.io/badge/TinyML-071F1D?style=for-the-badge&logo=tensorflow&logoColor=00C896)
-![Edge AI](https://img.shields.io/badge/Edge_AI-071F1D?style=for-the-badge&logo=nvidia&logoColor=14B8A6)
-
-### ⚡ IoT
-
-![ESP32](https://img.shields.io/badge/ESP32-071F1D?style=for-the-badge&logo=esphome&logoColor=5EEAD4)
-![Arduino](https://img.shields.io/badge/Arduino-071F1D?style=for-the-badge&logo=arduino&logoColor=00C896)
-
-### 🔥 Backend
-
-![Firebase](https://img.shields.io/badge/Firebase-071F1D?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-
-### 🛠 Tools
-
-![Git](https://img.shields.io/badge/Git-071F1D?style=for-the-badge&logo=git&logoColor=00C896)
-![GitHub](https://img.shields.io/badge/GitHub-071F1D?style=for-the-badge&logo=github&logoColor=ECFEFF)
-![VS Code](https://img.shields.io/badge/VS_Code-071F1D?style=for-the-badge&logo=visualstudiocode&logoColor=14B8A6)
+- 🚀 Building and experimenting with technology-driven startup ideas
+- 💻 Full-stack developer with experience across frontend and backend development
+- 🤖 Interested in AI, Machine Learning, TinyML and intelligent automation
+- 🌐 Building modern web applications using React, Next.js and Node.js
+- 🔌 Working with IoT and ESP32-based systems
+- 📊 Interested in data engineering, analytics and intelligent decision systems
+- 🧠 Enjoy solving problems through software + hardware integration
+- 🏆 Participating in innovation, technology and project competitions
+- 🔬 Interested in building prototypes that can evolve into real products
 
 ---
 
-# 📌 Featured Projects
+## 🛠️ Tech Stack
 
-## 🌱 EcoClamp
+### Languages
 
-> AI-powered predictive maintenance system for industrial motors using IoT, TinyML, and Edge AI.
-
----
-
-## 🛡 SafeWalk
-
-> IoT-based women safety system with emergency alert functionality.
-
----
-
-## 🛒 ShopCart
-
-> Modern e-commerce web application built for seamless online shopping.
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=suryamuruganvijayalakshmi&show_icons=true&theme=transparent&title_color=00C896&text_color=ECFEFF&icon_color=14B8A6&border_color=14B8A6"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=suryamuruganvijayalakshmi&theme=transparent&ring=00C896&fire=14B8A6&currStreakLabel=5EEAD4&border=14B8A6"/>
-
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<p align="center">
+### Frontend
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=suryamuruganvijayalakshmi&bg_color=071F1D&color=ECFEFF&line=00C896&point=5EEAD4&area=true&hide_border=true"/>
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+</p>
 
+### Backend & Database
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### AI / IoT / Data
+
+<p>
+<img src="https://img.shields.io/badge/AI-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TinyML-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IoT-0A0A0A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
-# 🌟 Soft Skills
+# 🚀 Featured Projects
 
-✨ Team Leadership
+## ⚡ EcoClamp
 
-🎤 Public Speaking
+**AIoT Smart Resource Conservation & Industrial Energy Intelligence Platform**
 
-📝 Technical Documentation
+A low-cost, non-invasive industrial monitoring platform that uses **ESP32 + CT sensing** to convert machine current signals into actionable insights.
 
-📊 Presentation Skills
+### Key Capabilities
 
-📅 Project Management
+- Real-time machine monitoring
+- Machine-specific baseline learning
+- Anomaly detection
+- Machine health scoring
+- Energy estimation
+- Short-term forecasting
+- Maintenance recommendations
+- Resource conservation analysis
+- Human-supervised alert response
 
-🧩 Problem Solving
-
-🚀 Quick Learner
-
----
-
-# 🌍 Connect with Me
-
-📧 **Email**
-
-**vmsurya2007@gmail.com**
-
-🐙 **GitHub**
-
-https://github.com/suryamuruganvijayalakshmi
+**Tech:** Next.js • TypeScript • Supabase • ESP32 • IoT • Analytics
 
 ---
 
-<div align="center">
+## 🌾 AgriFlow
 
-### ⭐ "Turning coffee into code and ideas into reality." ☕💻
+**Agricultural Procurement Planning Platform**
 
-<img src="https://komarev.com/ghpvc/?username=suryamuruganvijayalakshmi&label=Profile+Views&color=00C896&style=for-the-badge"/>
+A digital platform designed to help farmers and procurement centres better coordinate crop arrivals before harvest.
 
-</div>
+### Focus Areas
+
+- Crop readiness prediction
+- Farmer field registration
+- Expected harvest quantity
+- Procurement-centre capacity
+- Centre recommendations
+- Agricultural planning
+
+**Tech:** React • Node.js • MongoDB • AI/Data Analytics
+
+---
+
+## 🤖 Synthetix HR
+
+**Explainable AI Resume Screening Assistant**
+
+An evidence-first resume screening system designed to assist recruiters while keeping the screening process transparent and human-supervised.
+
+### Features
+
+- Resume parsing
+- Resume integrity analysis
+- Hidden-text detection
+- Keyword-stuffing detection
+- Semantic skill matching
+- Evidence extraction
+- Configurable scoring
+- Human-in-the-loop screening
+
+**Tech:** Next.js • React • Python • FastAPI • PostgreSQL • Qdrant • LLMs
+
+---
+
+## 🛰️ SENTINEL
+
+**Autonomous Orbital Safety & Debris Mitigation Concept**
+
+A conceptual autonomous system for orbital risk monitoring and mitigation.
+
+### Concept
+
+```text
+Detect
+  ↓
+Analyze
+  ↓
+Predict
+  ↓
+Decide
+  ↓
+Deploy
+  ↓
+Verify
