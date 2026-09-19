@@ -2,53 +2,67 @@
 # 👋 Hi, I'm Surya V M
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;AIoT+Builder;Startup+Founder;AI+%7C+IoT+%7C+Data+Engineering;Building+Technology+for+Real-World+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AIoT+Builder;Startup+Founder;AI+%7C+IoT+%7C+Data+Engineering;Building+Technology+for+Real-World+Problems" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Suryamuruganvijayalakshmi">
-    <img src="https://img.shields.io/github/followers/Suryamuruganvijayalakshmi?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/Suryamuruganvijayalakshmi?label=Followers&style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/Suryamuruganvijayalakshmi?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Suryamuruganvijayalakshmi?label=Stars&style=for-the-badge&logo=github" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/stars/Suryamuruganvijayalakshmi?label=Stars&style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://surya.signbridge.click">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0ea5e9,100:06b6d4&height=140&section=header&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20INNOVATE&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **Full-Stack Developer, AIoT Builder, and Startup Founder** passionate about transforming real-world problems into practical technology solutions.
+I'm **Surya V M**, a **Full-Stack Developer, AIoT Builder, and Startup Founder** focused on turning real-world problems into practical technology solutions.
 
-I work across the complete development cycle — from **problem discovery and system architecture to hardware prototyping, software development, AI integration, testing, and product development**.
+I enjoy working across the complete development cycle:
 
-My main interests are:
+```text
+💡 Problem
+   ↓
+🔎 Research
+   ↓
+🏗️ System Architecture
+   ↓
+🔧 Prototype
+   ↓
+💻 Software Development
+   ↓
+🤖 AI / Data Integration
+   ↓
+🧪 Testing
+   ↓
+🚀 Product
+```
 
-- 🚀 Full-Stack Development
-- 🤖 Artificial Intelligence & Machine Learning
-- 🔌 IoT & Edge Computing
-- 🧠 TinyML
-- 📊 Data Engineering & Analytics
-- 🏭 Industrial AIoT
-- 🌱 Technology-driven Product Development
+My main interests include **Full-Stack Development, Artificial Intelligence, Machine Learning, IoT, TinyML, Data Engineering, Edge Computing, and Product Development**.
 
-> **I don't just want to learn technology. I want to use technology to build things that matter.**
+> ### "Don't just build projects. Build solutions that matter."
 
 ---
 
 # ⚡ What I Build
 
-<p align="center">
-
 <table>
 <tr>
-<td align="center" width="25%">
+
+<td width="25%" align="center">
 
 ### 💻
-**Software**
+
+## Software
 
 Full-Stack Apps  
 Web Platforms  
@@ -57,10 +71,11 @@ Backend Systems
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
 ### 🤖
-**AI & Data**
+
+## AI & Data
 
 Machine Learning  
 AI Applications  
@@ -69,10 +84,11 @@ Intelligent Systems
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
 ### 🔌
-**IoT**
+
+## IoT
 
 ESP32  
 Sensors  
@@ -81,10 +97,11 @@ TinyML
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
 ### 🚀
-**Products**
+
+## Products
 
 Prototypes  
 Startup Ideas  
@@ -92,10 +109,9 @@ Real-World Solutions
 Product Development
 
 </td>
+
 </tr>
 </table>
-
-</p>
 
 ---
 
@@ -103,36 +119,44 @@ Product Development
 
 ## 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" alt="Programming Languages"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
 </p>
 
 ## 🌐 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="Frontend Technologies"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
-## ⚙️ Backend & Database
+## ⚙️ Backend & Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase" alt="Backend Technologies"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase" />
 </p>
 
-## 🤖 AI / IoT / Development Tools
+## 🔌 IoT & Development Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,arduino,git,github,vercel,vscode" alt="Tools"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,vercel" />
 </p>
 
-### Core Areas
+## 🧠 Core Areas
 
-<p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TinyML-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IoT-0A0A0A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Engineering-1E40AF?style=for-the-badge"/>
+<p align="left">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logoColor=white" />
+
+<img src="https://img.shields.io/badge/TinyML-111827?style=for-the-badge&logoColor=white" />
+
+<img src="https://img.shields.io/badge/IoT-0A0A0A?style=for-the-badge&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Data%20Engineering-1E40AF?style=for-the-badge&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Edge%20Computing-0891B2?style=for-the-badge&logoColor=white" />
+
 </p>
 
 ---
@@ -143,41 +167,97 @@ Product Development
 
 ### AIoT Smart Resource Conservation & Industrial Energy Intelligence Platform
 
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Working%20Prototype-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Domain-Industrial%20AIoT-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hardware-ESP32-E7352C?style=for-the-badge" />
+</p>
+
 > **Monitor → Predict → Conserve → Act**
 
-EcoClamp is a low-cost, non-invasive industrial monitoring platform that uses **ESP32 + CT sensing** to transform machine current signals into actionable machine and energy intelligence.
+EcoClamp is a low-cost, non-invasive AIoT platform designed for machine monitoring and industrial energy intelligence.
 
-### Key Capabilities
+It uses an **ESP32 + CT current sensor** to capture machine current readings and transform them into useful machine and energy insights.
+
+### 🔥 Key Capabilities
 
 ```text
-⚡ Real-Time Monitoring
-        ↓
-🧠 Machine Baseline
-        ↓
-🚨 Anomaly Detection
-        ↓
-❤️ Machine Health
-        ↓
-🔮 Forecasting
-        ↓
-🔧 Maintenance Insights
-        ↓
-🌱 Resource Conservation
-        ↓
-👨‍💼 Operator Action
+                MACHINE
+                   │
+                   ▼
+          ┌─────────────────┐
+          │ ESP32 + CT      │
+          │ Current Sensor  │
+          └────────┬────────┘
+                   │
+                   ▼
+          ┌─────────────────┐
+          │ Data Processing │
+          └────────┬────────┘
+                   │
+                   ▼
+          ┌─────────────────┐
+          │    Baseline     │
+          │    Learning     │
+          └────────┬────────┘
+                   │
+                   ▼
+          ┌─────────────────┐
+          │    Anomaly      │
+          │    Detection    │
+          └────────┬────────┘
+                   │
+                   ▼
+          ┌─────────────────┐
+          │ Machine Health  │
+          └────────┬────────┘
+                   │
+                   ▼
+          ┌─────────────────┐
+          │  Forecasting    │
+          └────────┬────────┘
+                   │
+                   ▼
+          ┌─────────────────┐
+          │ Maintenance &   │
+          │ Conservation    │
+          └─────────────────┘
 ```
+
+### Features
+
+- ⚡ Real-time machine monitoring
+- 🧠 Machine-specific baseline learning
+- 🚨 Anomaly detection
+- ❤️ Machine health scoring
+- 🔮 Short-term forecasting
+- 🔧 Maintenance recommendations
+- 🌱 Resource conservation analysis
+- 📊 Energy intelligence
+- 🔔 Human-supervised alerts
+- 📡 ESP32-based sensing
+- 🏭 Non-invasive retrofit architecture
 
 ### Technology
 
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` `ESP32` `IoT` `Analytics`
+```text
+Next.js
+TypeScript
+Supabase
+PostgreSQL
+ESP32
+IoT
+Recharts
+Analytics Engine
+```
 
 ---
 
-## 🌾 AgriFlow
+# 🌾 AgriFlow
 
 ### Intelligent Agricultural Procurement Planning Platform
 
-AgriFlow is designed to help farmers and procurement centres better coordinate crop arrivals before harvest.
+AgriFlow is a digital platform concept designed to help farmers and procurement centres coordinate crop arrivals before harvest.
 
 ### Focus Areas
 
@@ -187,14 +267,21 @@ AgriFlow is designed to help farmers and procurement centres better coordinate c
 - 🏭 Procurement-centre capacity
 - 📊 Agricultural planning
 - 🎯 Centre recommendations
+- 👨‍🌾 Farmer-focused workflow
 
 ### Technology
 
-`React` `Node.js` `MongoDB` `AI` `Data Analytics`
+```text
+React
+Node.js
+MongoDB
+AI
+Data Analytics
+```
 
 ---
 
-## 🤖 Synthetix HR
+# 🤖 Synthetix HR
 
 ### Explainable AI Resume Screening Assistant
 
@@ -213,99 +300,120 @@ Synthetix HR is an evidence-first resume screening system designed to make autom
 
 ### Technology
 
-`Next.js` `React` `Python` `FastAPI` `PostgreSQL` `Qdrant` `LLMs`
+```text
+Next.js
+React
+Python
+FastAPI
+PostgreSQL
+Qdrant
+LLMs
+```
 
 ---
 
-## 🛰️ SENTINEL
+# 🛰️ SENTINEL
 
 ### Autonomous Orbital Safety & Debris Mitigation Concept
 
 SENTINEL is a conceptual autonomous system exploring intelligent orbital risk monitoring and mitigation.
 
+### Autonomous Mission Flow
+
 ```text
-┌──────────────┐
-│    DETECT    │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│    ANALYZE   │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│    PREDICT   │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│    DECIDE    │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│    DEPLOY    │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│    VERIFY    │
-└──────────────┘
+             ┌───────────────┐
+             │    DETECT     │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │    ANALYZE    │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │    PREDICT    │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │    DECIDE     │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │    DEPLOY     │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │    VERIFY     │
+             └───────────────┘
 ```
 
-The concept explores autonomous orbital safety, modular intervention systems, and intelligent mission architectures.
+The concept explores autonomous orbital safety, modular intervention systems, reusable mission architectures, and intelligent decision systems.
 
 ---
 
-# 🧠 How I Approach Engineering
+# 🧠 My Engineering Mindset
+
+I believe technology becomes valuable when it moves beyond a demo and solves a meaningful problem.
 
 ```text
-                ┌─────────────────────┐
-                │    REAL PROBLEM     │
-                └──────────┬──────────┘
-                           ↓
-                ┌─────────────────────┐
-                │     RESEARCH        │
-                └──────────┬──────────┘
-                           ↓
-                ┌─────────────────────┐
-                │    ARCHITECTURE     │
-                └──────────┬──────────┘
-                           ↓
-                ┌─────────────────────┐
-                │     PROTOTYPE       │
-                └──────────┬──────────┘
-                           ↓
-                ┌─────────────────────┐
-                │       BUILD         │
-                └──────────┬──────────┘
-                           ↓
-                ┌─────────────────────┐
-                │       TEST          │
-                └──────────┬──────────┘
-                           ↓
-                ┌─────────────────────┐
-                │      PRODUCT        │
-                └─────────────────────┘
+┌──────────────────────────────┐
+│      REAL-WORLD PROBLEM      │
+└──────────────┬───────────────┘
+               ↓
+┌──────────────────────────────┐
+│          RESEARCH            │
+└──────────────┬───────────────┘
+               ↓
+┌──────────────────────────────┐
+│        ARCHITECTURE          │
+└──────────────┬───────────────┘
+               ↓
+┌──────────────────────────────┐
+│          PROTOTYPE           │
+└──────────────┬───────────────┘
+               ↓
+┌──────────────────────────────┐
+│            BUILD             │
+└──────────────┬───────────────┘
+               ↓
+┌──────────────────────────────┐
+│            TEST              │
+└──────────────┬───────────────┘
+               ↓
+┌──────────────────────────────┐
+│           IMPROVE            │
+└──────────────┬───────────────┘
+               ↓
+┌──────────────────────────────┐
+│           PRODUCT            │
+└──────────────────────────────┘
 ```
 
-### My principle
+### What I Ask Before Building
 
-> **Build solutions, not just projects.**
-
-A good technical solution should answer:
-
-- What problem does it solve?
-- Who needs it?
-- Why does it matter?
-- How does it work?
-- Can it scale?
-- Can it work in the real world?
-- What makes it different?
+```text
+❓ What problem does it solve?
+❓ Who needs it?
+❓ Why does it matter?
+❓ How does it work?
+❓ Can it scale?
+❓ Can it work in the real world?
+❓ What makes it different?
+```
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Suryamuruganvijayalakshmi&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryamuruganvijayalakshmi&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=Suryamuruganvijayalakshmi&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true"
+alt="GitHub Statistics" />
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryamuruganvijayalakshmi&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
+alt="Top Languages" />
+
 </p>
 
 ---
@@ -313,7 +421,11 @@ A good technical solution should answer:
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Suryamuruganvijayalakshmi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<img
+src="https://streak-stats.demolab.com?user=Suryamuruganvijayalakshmi&theme=tokyonight&hide_border=true"
+alt="GitHub Contribution Streak" />
+
 </p>
 
 ---
@@ -321,7 +433,11 @@ A good technical solution should answer:
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suryamuruganvijayalakshmi&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph"/>
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Suryamuruganvijayalakshmi&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Graph"
+alt="GitHub Contribution Graph" />
+
 </p>
 
 ---
@@ -329,26 +445,60 @@ A good technical solution should answer:
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suryamuruganvijayalakshmi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=Suryamuruganvijayalakshmi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
+alt="GitHub Trophies" />
+
 </p>
 
 ---
 
 # 📌 Current Focus
 
-<p align="center">
+<table align="center">
 
-| Area | Focus |
-|:---|:---|
-| 💻 Full-Stack | React • Next.js • Node.js |
-| 🤖 AI / ML | Intelligent applications • ML systems |
-| 📊 Data | Data Engineering • Analytics |
-| 🔌 IoT | ESP32 • Sensors • Edge Computing |
-| 🧠 TinyML | AI on resource-constrained devices |
-| 🚀 Products | Prototyping • Product Development |
-| 🏢 Startup | Technology-driven Solutions |
+<tr>
+<th>Area</th>
+<th>Focus</th>
+</tr>
 
-</p>
+<tr>
+<td>💻 Full-Stack</td>
+<td>React • Next.js • Node.js</td>
+</tr>
+
+<tr>
+<td>🤖 AI / ML</td>
+<td>Intelligent Applications • ML Systems</td>
+</tr>
+
+<tr>
+<td>📊 Data</td>
+<td>Data Engineering • Analytics</td>
+</tr>
+
+<tr>
+<td>🔌 IoT</td>
+<td>ESP32 • Sensors • Edge Computing</td>
+</tr>
+
+<tr>
+<td>🧠 TinyML</td>
+<td>AI on Resource-Constrained Devices</td>
+</tr>
+
+<tr>
+<td>🚀 Products</td>
+<td>Prototyping • Product Development</td>
+</tr>
+
+<tr>
+<td>🏢 Startup</td>
+<td>Technology-Driven Solutions</td>
+</tr>
+
+</table>
 
 ---
 
@@ -391,11 +541,15 @@ Startup Building
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Full--Stack%20Development-00D9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IoT-10B981?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Engineering-F59E0B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Startup%20Collaboration-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full--Stack%20Development-00D9FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-7C3AED?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/IoT-10B981?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Data%20Engineering-F59E0B?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Startup%20Collaboration-EF4444?style=for-the-badge" />
 
 </p>
 
@@ -406,15 +560,15 @@ Startup Building
 <p align="center">
 
 <a href="https://github.com/Suryamuruganvijayalakshmi">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/in/suryamuruganvijayalakshmi/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="https://surya.signbridge.click">
-  <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
 </p>
@@ -424,10 +578,23 @@ Startup Building
 # 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Suryamuruganvijayalakshmi&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+
+<img
+src="https://komarev.com/ghpvc/?username=Suryamuruganvijayalakshmi&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge"
+alt="Profile Views" />
+
 </p>
 
 ---
+
+<p align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0ea5e9,100:06b6d4&height=120&section=footer"
+width="100%"
+/>
+
+</p>
 
 <p align="center">
 
