@@ -3,8 +3,12 @@
 </h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer+%26+AIoT+Builder;Founder+%26+CEO+%E2%80%94+SignBridge+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+Python;AI+%2B+IoT+%2B+Data+%7C+Building+Real+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer+%26+AIoT+Builder;Founder+%26+CEO+%E2%80%94+SignBridge+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+Python;AI+%2B+IoT+%2B+Data+%7C+Building+Real+Products&cursorColor=0EA5E9" alt="Typing SVG" />
 </h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&pause=0&color=10B981&center=true&vCenter=true&width=800&lines=Currently+shipping:+SignBridge+%F0%9F%9A%80+%7C+EcoClamp+%F0%9F%94%A7+%7C+Synthetix-HR+%F0%9F%93%84&cursorColor=10B981" alt="Currently building" />
+</h3>
 
 <p align="center">
   <a href="https://github.com/Suryamuruganvijayalakshmi?tab=followers">
